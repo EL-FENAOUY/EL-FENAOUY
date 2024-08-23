@@ -1,19 +1,29 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm EL-FENAOUY</h1>
-<h3 align="center">Data Scientist and AI Developer</h3>
+# EL-FENAOUY
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+## Data Scientist and AI Developer
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-website.com)
+
+Hello! 👋 I'm EL-FENAOUY, a passionate Data Scientist and AI Developer with expertise in Large Language Models, Computer Vision, and MLOps. I'm dedicated to leveraging cutting-edge AI technologies to solve complex problems and drive innovation.
+
+## 🚀 Skills
+
+- **Programming Languages**: Python, R, SQL
+- **Machine Learning**: TensorFlow, PyTorch, Scikit-learn
+- **Deep Learning**: CNNs, RNNs, Transformers
+- **NLP**: BERT, GPT, Hugging Face Transformers
+- **Computer Vision**: OpenCV, YOLO, TensorFlow Object Detection API
+- **MLOps**: Docker, Kubernetes, CI/CD, MLflow
+- **Cloud Platforms**: AWS, Google Cloud Platform
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau
 
 ## 💼 Professional Experience
 
 ### Data Scientist | Flechetech, Biel, Switzerland (June 2023 - July 2024)
+
 - **Large Language Models (LLM) Projects**:
   - Implemented Retrieval-Augmented Generation (RAG) techniques, enhancing response relevance by 45% and reducing hallucinations by 60%.
   - Optimized LLM performance, decreasing processing time by 30% for enterprise-specific applications.
@@ -22,6 +32,47 @@
 - **Leadership and MLOps**:
   - Led a team of 3 junior data scientists, providing mentorship and project coordination.
   - Established a complete MLOps pipeline, reducing model deployment time by 75%.
+
+## 🎓 Education
+
+- **Master of Science in Data Science** | University Name, Location | Year
+- **Bachelor of Science in Computer Science** | University Name, Location | Year
+
+## 🏆 Certifications
+
+- AWS Certified Machine Learning – Specialty
+- TensorFlow Developer Certificate
+- Deep Learning Specialization - Coursera
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 🌟 Featured Projects
+
+1. **AI-Powered Chatbot for Customer Service**
+   - Developed an intelligent chatbot using BERT and GPT models, improving customer satisfaction by 40%.
+   - [GitHub Repo](https://github.com/your-username/chatbot-project)
+
+2. **Real-time Face Recognition System**
+   - Implemented a face recognition system using deep learning, achieving 99% accuracy in various lighting conditions.
+   - [GitHub Repo](https://github.com/your-username/face-recognition-project)
+
+3. **Predictive Maintenance for Industrial Equipment**
+   - Created a machine learning model to predict equipment failures, reducing downtime by 25%.
+   - [GitHub Repo](https://github.com/your-username/predictive-maintenance-project)
+
+## 📫 Let's Connect
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+
+- 📧 Email: your.email@example.com
+- 🌐 Website: [your-portfolio-website.com](https://your-portfolio-website.com)
+- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+
+---
+
+⭐️ From [EL-FENAOUY](https://github.com/your-username)
 ---
 
 ### 🔧 Languages and Tools:
