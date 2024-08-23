@@ -1,25 +1,124 @@
 ## Hi there 👋
-<h1 align="center">EL-FENAOUY | Data Scientist & AI Innovator 🚀</h1>
+# 🚀 Reda El-Fenaouy
 
-<p align="center">
-  <img src="https://your-image-url.com/data-science-banner.jpg" alt="Data Science Banner" width="100%">
-</p>
+## 👨‍💻 Data Scientist | 🧠 Ingénieur en Intelligence Artificielle
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/el-fenaouy-reda-212074192/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-</p>
+Bienvenue sur mon profil GitHub ! 👋 Je suis un Data Scientist passionné, spécialisé dans le NLP 🗣️, la Computer Vision 👁️ et le MLOps ⚙️. Mon objectif est d'appliquer des techniques avancées de Machine Learning et de Deep Learning pour résoudre des problèmes complexes et créer des solutions innovantes. 💡
 
-## 🎯 Mission
+### 🌟 Points forts
 
-Passionné par l'IA et la data science, je m'efforce de transformer des données complexes en solutions innovantes qui génèrent un impact mesurable pour les entreprises. Mon objectif est de repousser les limites de ce qui est possible avec l'apprentissage automatique et l'IA.
+- 🤖 Expertise en NLP et Computer Vision
+- 🚀 Expérience approfondie en MLOps et déploiement de modèles
+- 👥 Capacité à diriger des équipes techniques et à mener des projets innovants
+- 🎓 Solide formation en ingénierie et en sciences des données
 
-## 🎓 Education & Certifications
+## 💼 Expérience Professionnelle
 
-- **Continuous Education | Data Science & Cloud Computing Engineering** - OpenClassrooms & CentraleSupélec, Paris | Sep 2021 - Nov 2022
-- **Data Science & Cloud Computing Engineering** - École Nationale des Sciences Appliquées, Oujda | Sep 2019 - Jul 2021
-- **Preparatory Classes** - École Nationale des Sciences Appliquées, Oujda | Sep 2017 - Jul 2019
+### 📊 Data Scientist | Flechetech
+*🇨🇭 Biel, Suisse | 🗓️ Juin 2023 - Juillet 2024*
+
+#### 🧠 Projets LLM (Large Language Models)
+- 🔍 Implémentation de techniques de Retrieval-Augmented Generation (RAG)
+  - 📈 Amélioration de la pertinence des réponses de 45%
+  - 📉 Réduction des hallucinations de 60%
+- ⚡ Optimisation des performances des modèles LLM
+  - ⏱️ Réduction du temps de traitement de 30% pour des applications spécifiques
+
+#### 👁️ Projets de Computer Vision
+- 🔍 Développement d'un système de détection d'objets en temps réel avec YOLO
+  - 🎯 Précision de 95% pour l'inspection de PCB et la reconnaissance de composants électroniques
+
+#### 👨‍🏫 Leadership et MLOps
+- 👥 Direction d'une équipe de 3 data scientists junior
+- 🔄 Mise en place d'un pipeline MLOps complet
+  - ⏱️ Réduction du temps de déploiement des modèles de 75%
+
+### 🧙‍♂️ Consultant Data Science NLP & Encadrant de Stagiaires | 3D SMART FACTORY
+*🇲🇦 Mohammedia, Maroc | 🗓️ Janvier 2023 - Juin 2023*
+
+- 🔗 Développement d'un système de Matching CV-poste utilisant des techniques avancées de NLP
+- 📄 Implémentation d'une solution d'extraction de données de documents techniques (OCR + NLP)
+- 👨‍🏫 Supervision de 5 stagiaires sur des projets innovants en data science
+
+### 📚 Data Scientist - Formation | Openclassrooms
+*🇫🇷 Paris, France | 🗓️ Septembre 2021 - Octobre 2022*
+
+- 📊 Implémentation de modèles ML (XGBoost, LightGBM, K-means) pour scoring crédit et segmentation client
+- 🔄 Conception de pipelines ETL avec PySpark, traitant plus de 10 millions d'enregistrements
+- ☁️ Déploiement de solutions ML sur AWS (EC2, S3, SageMaker)
+- 🖥️ Développement d'APIs RESTful avec Flask et de Dashboards interactifs avec Streamlit
+
+### 🎓 Ingénieur Data Scientist - Projet de Fin d'Études | 3D SMART FACTORY
+*🇲🇦 Mohammedia, Maroc | 🗓️ Mars 2022 - Juillet 2022*
+
+- 📚 Développement d'un système de classification automatique d'articles scientifiques par Deep Learning
+  - 🎯 Précision de 97.92% sur un corpus de plus de 100 000 articles multi-domaines
+- 🧠 Implémentation et comparaison de 4 architectures de Deep Learning (BERT, BERT+LSTM, RoBERT, SciBERT)
+- 🔄 Conception d'un pipeline NLP complet : du prétraitement des données au déploiement du modèle
+- 🖥️ Création d'une interface utilisateur interactive avec Gradio
+
+## 🛠️ Compétences Techniques
+
+### 💻 Languages de Programmation
+Python 🐍, PHP 🐘, SQL 📊, PL/SQL 📁
+
+### 🧠 Machine Learning & Deep Learning
+Scikit-learn 🔬, XGBoost 🚀, LightGBM 💡, TensorFlow 🧠, Keras 🔄, PyTorch 🔥
+
+### 🗣️ Natural Language Processing
+NLTK 📚, Spacy 🔍, TextHero 📝, Word Embeddings 🔤, Transformers 🤖
+
+### 👁️ Computer Vision
+OpenCV 👀, SIFT 🔎, ORB 🔄, SURF 🌊, VGG16 🖼️, VGG19 🖼️
+
+### 📊 Big Data
+Hadoop 🐘, Apache Spark ⚡, Scala 🔶, PySpark 🔥
+
+### ☁️ Cloud & DevOps
+AWS ☁️, Docker 🐳, Kubernetes ☸️
+
+### 🗄️ Bases de données
+MySQL 🐬, Oracle 🏛️, Redis 🔴, MongoDB 🍃
+
+### 📊 Visualisation
+Matplotlib 📈, Seaborn 🌊, Plotly 📊, Tableau 📊, Power BI 💹
+
+### 🔧 Outils
+Git 🌿, GitHub 🐙
+
+### 📈 Statistiques
+Descriptive 📊, Inférentielle 🔬, Exploratoire 🔍
+
+## 📚 Formation
+
+- 🎓 **Ingénierie Data Sciences et Cloud Computing** | Openclassrooms en partenariat avec CentraleSupélec, Paris | 2021 - 2022
+- 🎓 **Ingénierie Data Sciences et Cloud Computing** | École Nationale des Sciences Appliquées, Oujda | 2019 - 2021
+- 📚 **Classes Préparatoires** | École Nationale des Sciences Appliquées, Oujda | 2017 - 2019
+
+## 🏆 Certifications
+
+- 🚀 MLOps Bootcamp: Mastering AI Operations for Success - AIOps
+- 🔄 End-to-End Machine Learning: From Idea to Implementation
+- 🧠 Deep Learning avec TensorFlow et Keras | MasterClass Python
+- 📊 Les Data Sciences de A à Z
+- 📄 Intelligently Extract Text & Data from Document with OCR NER
+- ⚡ Spark avec Scala - Pratique avec le Big Data pour Débutants
+
+## 🌐 Langues
+
+- 🇲🇦 Arabe : Bilingue
+- 🇫🇷 Français : Bilingue
+- 🇬🇧 Anglais : Courant
+
+## 📫 Contact
+
+- 💼 LinkedIn: [linkedin.com/in/el-fenaouy-reda-212074192](https://www.linkedin.com/in/el-fenaouy-reda-212074192)
+- 📧 Email: elfenaouyreda@gmail.com
+- 📱 Téléphone: +212 673315108
+
+---
+
+Je suis toujours à la recherche de nouveaux défis et d'opportunités de collaboration. N'hésitez pas à me contacter pour discuter de projets passionnants en data science et en IA ! 🚀💡
 
 
 ### 🔧 Languages and Tools:
