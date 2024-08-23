@@ -50,23 +50,9 @@ Passionné par l'IA et la data science, je m'efforce de transformer des données
 - 🔍 Précision de 99% du système de reconnaissance faciale dans diverses conditions d'éclairage
 - 🏭 Réduction de 25% des temps d'arrêt grâce au modèle de maintenance prédictive
 
-## 🎓 Formation & Certifications
 
-- 🎓 M.Sc. en Data Science | | Année
-- 🎓 B.Sc. en Informatique | Université Y | Année
-- 📜 MLOps Bootcamp: Mastering AI Operations for Success - AIOps 
-- 📜 End-to-End Machine Learning: From Idea to Implementation 
-- 📜 Deep Learning avec TensorFlow et Keras | MasterClass Python
-- 📜 Les Data Sciences de A à Z
-- 📜 Spark avec Scala - Pratique avec le Big Data pour Débutants 
 
-## 📫 Parlons de Votre Prochain Projet d'IA !
 
-Je suis toujours à la recherche de nouveaux défis passionnants en IA et data science. N'hésitez pas à me contacter pour discuter de la façon dont je peux apporter de la valeur à votre équipe.
-
-- 📧 Email: your.email@example.com
-- 🌐 Site Web: [your-portfolio-website.com](https://your-portfolio-website.com)
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 
 ---
 
@@ -158,12 +144,13 @@ Je suis toujours à la recherche de nouveaux défis passionnants en IA et data s
 - Data Science from A to Z
 - Intelligently Extract Text & Data from Documents with OCR NER
 - Spark with Scala - Big Data for Beginners
-## 📫 Contact Me
 
-- **Email**: elfenaouyreda@gmail.com
-- **LinkedIn**: [linkedin.com/in/el-fenaouy-reda-212074192](https://www.linkedin.com/in/el-fenaouy-reda-212074192)
-- **Location**: Kénitra, Morocco
+## 📫 Parlons de Votre Prochain Projet d'IA !
 
+Je suis toujours à la recherche de nouveaux défis passionnants en IA et data science. N'hésitez pas à me contacter pour discuter de la façon dont je peux apporter de la valeur à votre équipe.
+
+- 📧 Email: elfenaouyreda@gmail.com
+- 
 Thank you for visiting my profile! Feel free to explore my projects and get in touch if you'd like to collaborate or discuss any ideas.
 
 
