@@ -91,7 +91,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-## 🎯 Certifications
+ 🎯 Certifications
 
 - MLOps Bootcamp: Mastering AI Operations for Success - AIOps
 - End-to-End Machine Learning: From Idea to Implementation
