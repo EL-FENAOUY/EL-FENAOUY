@@ -15,6 +15,12 @@
 
 Passionné par l'IA et la data science, je m'efforce de transformer des données complexes en solutions innovantes qui génèrent un impact mesurable pour les entreprises. Mon objectif est de repousser les limites de ce qui est possible avec l'apprentissage automatique et l'IA.
 
+## 🎓 Education & Certifications
+
+- **Continuous Education | Data Science & Cloud Computing Engineering** - OpenClassrooms & CentraleSupélec, Paris | Sep 2021 - Nov 2022
+- **Data Science & Cloud Computing Engineering** - École Nationale des Sciences Appliquées, Oujda | Sep 2019 - Jul 2021
+- **Preparatory Classes** - École Nationale des Sciences Appliquées, Oujda | Sep 2017 - Jul 2019
+
 
 ### 🔧 Languages and Tools:
 
