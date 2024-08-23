@@ -21,7 +21,7 @@ Bienvenue sur mon profil GitHub ! 👋 Je suis un Data Scientist passionné, sp�
 - 🔍 Implémentation de techniques de Retrieval-Augmented Generation (RAG)
   - 📈 Amélioration de la pertinence des réponses de 45%
   - 📉 Réduction des hallucinations de 60%
-- ⚡ Optimisation des performances des modèles LLM
+  - ⚡ Optimisation des performances des modèles LLM
   - ⏱️ Réduction du temps de traitement de 30% pour des applications spécifiques
 
 #### 👁️ Projets de Computer Vision
@@ -31,7 +31,7 @@ Bienvenue sur mon profil GitHub ! 👋 Je suis un Data Scientist passionné, sp�
 #### 👨‍🏫 Leadership et MLOps
 - 👥 Direction d'une équipe de 3 data scientists junior
 - 🔄 Mise en place d'un pipeline MLOps complet
-  - ⏱️ Réduction du temps de déploiement des modèles de 75%
+- ⏱️ Réduction du temps de déploiement des modèles de 75%
 
 ### 🧙‍♂️ Consultant Data Science NLP & Encadrant de Stagiaires | 3D SMART FACTORY
 *🇲🇦 Mohammedia, Maroc | 🗓️ Janvier 2023 - Juin 2023*
@@ -41,11 +41,11 @@ Bienvenue sur mon profil GitHub ! 👋 Je suis un Data Scientist passionné, sp�
 - 👨‍🏫 Supervision de 5 stagiaires sur des projets innovants en data science
 
 
-🎓 ## Formation du Data Jedi
+### 🎓 Formation du Data Jedi
 
-🏛️ Ingénierie Data Sciences et Cloud Computing | CentraleSupélec, Paris | 2021 - 2022
-🏫 Ingénierie Data Sciences | École Nationale des Sciences Appliquées, Oujda | 2019 - 2021
-📚 Classes Préparatoires | ENSA Oujda | 2017 - 2019
+- 🏛️ Ingénierie Data Sciences et Cloud Computing | CentraleSupélec, Paris | 2021 - 2022
+- 🏫 Ingénierie Data Sciences | École Nationale des Sciences Appliquées, Oujda | 2019 - 2021
+- 📚 Classes Préparatoires | ENSA Oujda | 2017 - 2019
 
 - 📊 Implémentation de modèles ML (XGBoost, LightGBM, K-means) pour scoring crédit et segmentation client
 - 🔄 Conception de pipelines ETL avec PySpark, traitant plus de 10 millions d'enregistrements
