@@ -47,10 +47,7 @@ Bienvenue sur mon profil GitHub ! 👋 Je suis un Data Scientist passionné, sp�
 - 🏫 Ingénierie Data Sciences | École Nationale des Sciences Appliquées, Oujda | 2019 - 2021
 - 📚 Classes Préparatoires | ENSA Oujda | 2017 - 2019
 
-- 📊 Implémentation de modèles ML (XGBoost, LightGBM, K-means) pour scoring crédit et segmentation client
-- 🔄 Conception de pipelines ETL avec PySpark, traitant plus de 10 millions d'enregistrements
-- ☁️ Déploiement de solutions ML sur AWS (EC2, S3, SageMaker)
-- 🖥️ Développement d'APIs RESTful avec Flask et de Dashboards interactifs avec Streamlit
+
 
 ### 🎓 Ingénieur Data Scientist - Projet de Fin d'Études | 3D SMART FACTORY
 *🇲🇦 Mohammedia, Maroc | 🗓️ Mars 2022 - Juillet 2022*
