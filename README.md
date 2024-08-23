@@ -62,71 +62,6 @@ Bienvenue sur mon profil GitHub ! 👋 Je suis un Data Scientist passionné, sp�
 - 🖥️ Création d'une interface utilisateur interactive avec Gradio
 
 ## 🛠️ Compétences Techniques
-
-### 💻 Languages de Programmation
-Python 🐍, PHP 🐘, SQL 📊, PL/SQL 📁
-
-### 🧠 Machine Learning & Deep Learning
-Scikit-learn 🔬, XGBoost 🚀, LightGBM 💡, TensorFlow 🧠, Keras 🔄, PyTorch 🔥
-
-### 🗣️ Natural Language Processing
-NLTK 📚, Spacy 🔍, TextHero 📝, Word Embeddings 🔤, Transformers 🤖
-
-### 👁️ Computer Vision
-OpenCV 👀, SIFT 🔎, ORB 🔄, SURF 🌊, VGG16 🖼️, VGG19 🖼️
-
-### 📊 Big Data
-Hadoop 🐘, Apache Spark ⚡, Scala 🔶, PySpark 🔥
-
-### ☁️ Cloud & DevOps
-AWS ☁️, Docker 🐳, Kubernetes ☸️
-
-### 🗄️ Bases de données
-MySQL 🐬, Oracle 🏛️, Redis 🔴, MongoDB 🍃
-
-### 📊 Visualisation
-Matplotlib 📈, Seaborn 🌊, Plotly 📊, Tableau 📊, Power BI 💹
-
-### 🔧 Outils
-Git 🌿, GitHub 🐙
-
-### 📈 Statistiques
-Descriptive 📊, Inférentielle 🔬, Exploratoire 🔍
-
-## 📚 Formation
-
-- 🎓 **Ingénierie Data Sciences et Cloud Computing** | Openclassrooms en partenariat avec CentraleSupélec, Paris | 2021 - 2022
-- 🎓 **Ingénierie Data Sciences et Cloud Computing** | École Nationale des Sciences Appliquées, Oujda | 2019 - 2021
-- 📚 **Classes Préparatoires** | École Nationale des Sciences Appliquées, Oujda | 2017 - 2019
-
-## 🏆 Certifications
-
-- 🚀 MLOps Bootcamp: Mastering AI Operations for Success - AIOps
-- 🔄 End-to-End Machine Learning: From Idea to Implementation
-- 🧠 Deep Learning avec TensorFlow et Keras | MasterClass Python
-- 📊 Les Data Sciences de A à Z
-- 📄 Intelligently Extract Text & Data from Document with OCR NER
-- ⚡ Spark avec Scala - Pratique avec le Big Data pour Débutants
-
-## 🌐 Langues
-
-- 🇲🇦 Arabe : Bilingue
-- 🇫🇷 Français : Bilingue
-- 🇬🇧 Anglais : Courant
-
-## 📫 Contact
-
-- 💼 LinkedIn: [linkedin.com/in/el-fenaouy-reda-212074192](https://www.linkedin.com/in/el-fenaouy-reda-212074192)
-- 📧 Email: elfenaouyreda@gmail.com
-- 📱 Téléphone: +212 673315108
-
----
-
-Je suis toujours à la recherche de nouveaux défis et d'opportunités de collaboration. N'hésitez pas à me contacter pour discuter de projets passionnants en data science et en IA ! 🚀💡
-
-
-### 🔧 Languages and Tools:
-
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -192,14 +127,44 @@ Je suis toujours à la recherche de nouveaux défis et d'opportunités de collab
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
- 🎯 Certifications
 
-- MLOps Bootcamp: Mastering AI Operations for Success - AIOps
-- End-to-End Machine Learning: From Idea to Implementation
-- Deep Learning with TensorFlow and Keras | MasterClass Python
-- Data Science from A to Z
-- Intelligently Extract Text & Data from Documents with OCR NER
-- Spark with Scala - Big Data for Beginners
+
+## 📚 Formation
+
+- 🎓 **Ingénierie Data Sciences et Cloud Computing** | Openclassrooms en partenariat avec CentraleSupélec, Paris | 2021 - 2022
+- 🎓 **Ingénierie Data Sciences et Cloud Computing** | École Nationale des Sciences Appliquées, Oujda | 2019 - 2021
+- 📚 **Classes Préparatoires** | École Nationale des Sciences Appliquées, Oujda | 2017 - 2019
+
+## 🏆 Certifications
+
+- 🚀 MLOps Bootcamp: Mastering AI Operations for Success - AIOps
+- 🔄 End-to-End Machine Learning: From Idea to Implementation
+- 🧠 Deep Learning avec TensorFlow et Keras | MasterClass Python
+- 📊 Les Data Sciences de A à Z
+- 📄 Intelligently Extract Text & Data from Document with OCR NER
+- ⚡ Spark avec Scala - Pratique avec le Big Data pour Débutants
+
+## 🌐 Langues
+
+- 🇲🇦 Arabe : Bilingue
+- 🇫🇷 Français : Bilingue
+- 🇬🇧 Anglais : Courant
+
+## 📫 Contact
+
+- 💼 LinkedIn: [linkedin.com/in/el-fenaouy-reda-212074192](https://www.linkedin.com/in/el-fenaouy-reda-212074192)
+- 📧 Email: elfenaouyreda@gmail.com
+- 📱 Téléphone: +212 673315108
+
+---
+
+Je suis toujours à la recherche de nouveaux défis et d'opportunités de collaboration. N'hésitez pas à me contacter pour discuter de projets passionnants en data science et en IA ! 🚀💡
+
+
+
+
+
+
 
 ## 📫 Parlons de Votre Prochain Projet d'IA !
 
