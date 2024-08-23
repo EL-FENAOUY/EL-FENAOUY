@@ -40,8 +40,12 @@ Bienvenue sur mon profil GitHub ! 👋 Je suis un Data Scientist passionné, sp�
 - 📄 Implémentation d'une solution d'extraction de données de documents techniques (OCR + NLP)
 - 👨‍🏫 Supervision de 5 stagiaires sur des projets innovants en data science
 
-### 📚 Data Scientist - Formation | Openclassrooms
-*🇫🇷 Paris, France | 🗓️ Septembre 2021 - Octobre 2022*
+
+🎓 ## Formation du Data Jedi
+
+🏛️ Ingénierie Data Sciences et Cloud Computing | CentraleSupélec, Paris | 2021 - 2022
+🏫 Ingénierie Data Sciences | École Nationale des Sciences Appliquées, Oujda | 2019 - 2021
+📚 Classes Préparatoires | ENSA Oujda | 2017 - 2019
 
 - 📊 Implémentation de modèles ML (XGBoost, LightGBM, K-means) pour scoring crédit et segmentation client
 - 🔄 Conception de pipelines ETL avec PySpark, traitant plus de 10 millions d'enregistrements
