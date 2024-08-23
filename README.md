@@ -53,7 +53,7 @@ Bienvenue sur mon profil GitHub ! 👋 Je suis un Data Scientist passionné, sp�
 *🇲🇦 Mohammedia, Maroc | 🗓️ Mars 2022 - Juillet 2022*
 
 - 📚 Développement d'un système de classification automatique d'articles scientifiques par Deep Learning
-  - 🎯 Précision de 97.92% sur un corpus de plus de 100 000 articles multi-domaines
+- 🎯 Précision de 97.92% sur un corpus de plus de 100 000 articles multi-domaines
 - 🧠 Implémentation et comparaison de 4 architectures de Deep Learning (BERT, BERT+LSTM, RoBERT, SciBERT)
 - 🔄 Conception d'un pipeline NLP complet : du prétraitement des données au déploiement du modèle
 - 🖥️ Création d'une interface utilisateur interactive avec Gradio
@@ -126,10 +126,6 @@ Bienvenue sur mon profil GitHub ! 👋 Je suis un Data Scientist passionné, sp�
 </p>
 
 
-## 📚 Formation
-
-- 🎓 **Ingénierie Data Sciences et Cloud Computing** | Openclassrooms en partenariat avec CentraleSupélec, Paris | 2021 - 2022
-- 🎓 **Ingénierie Data Sciences et Cloud Computing** | École Nationale des Sciences Appliquées, Oujda | 2019 - 2021
 - 📚 **Classes Préparatoires** | École Nationale des Sciences Appliquées, Oujda | 2017 - 2019
 
 ## 🏆 Certifications
@@ -147,28 +143,21 @@ Bienvenue sur mon profil GitHub ! 👋 Je suis un Data Scientist passionné, sp�
 - 🇫🇷 Français : Bilingue
 - 🇬🇧 Anglais : Courant
 
-## 📫 Contact
 
-- 💼 LinkedIn: [linkedin.com/in/el-fenaouy-reda-212074192](https://www.linkedin.com/in/el-fenaouy-reda-212074192)
-- 📧 Email: elfenaouyreda@gmail.com
-- 📱 Téléphone: +212 673315108
 
 ---
-
-Je suis toujours à la recherche de nouveaux défis et d'opportunités de collaboration. N'hésitez pas à me contacter pour discuter de projets passionnants en data science et en IA ! 🚀💡
-
-
-
-
 
 
 
 ## 📫 Parlons de Votre Prochain Projet d'IA !
 
-Je suis toujours à la recherche de nouveaux défis passionnants en IA et data science. N'hésitez pas à me contacter pour discuter de la façon dont je peux apporter de la valeur à votre équipe.
+Je suis toujours à la recherche de nouveaux défis passionnants en IA et data science. N'hésitez pas à me contacter pour discuter de la façon dont je peux apporter de la valeur à votre équipe. 🚀💡
 
+
+- 💼 LinkedIn: [linkedin.com/in/el-fenaouy-reda-212074192](https://www.linkedin.com/in/el-fenaouy-reda-212074192)
 - 📧 Email: elfenaouyreda@gmail.com
-- 
+- 📱 Téléphone: +212 673315108
+
 Thank you for visiting my profile! Feel free to explore my projects and get in touch if you'd like to collaborate or discuss any ideas.
 
 
