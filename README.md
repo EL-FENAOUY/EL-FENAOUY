@@ -95,6 +95,23 @@
 
 
 <!--
+
+## 🎯 Certifications
+
+- MLOps Bootcamp: Mastering AI Operations for Success - AIOps
+- End-to-End Machine Learning: From Idea to Implementation
+- Deep Learning with TensorFlow and Keras | MasterClass Python
+- Data Science from A to Z
+- Intelligently Extract Text & Data from Documents with OCR NER
+- Spark with Scala - Big Data for Beginners
+## 📫 Contact Me
+
+- **Email**: elfenaouyreda@gmail.com
+- **LinkedIn**: [linkedin.com/in/el-fenaouy-reda-212074192](https://www.linkedin.com/in/el-fenaouy-reda-212074192)
+- **Location**: Kénitra, Morocco
+
+Thank you for visiting my profile! Feel free to explore my projects and get in touch if you'd like to collaborate or discuss any ideas.
+
 **EL-FENAOUY/EL-FENAOUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
