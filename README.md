@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/el-fenaouy-reda-212074192/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
@@ -15,59 +15,6 @@
 
 Passionné par l'IA et la data science, je m'efforce de transformer des données complexes en solutions innovantes qui génèrent un impact mesurable pour les entreprises. Mon objectif est de repousser les limites de ce qui est possible avec l'apprentissage automatique et l'IA.
 
-## 🏆 Réalisations Clés
-
-- 🤖 Augmentation de 45% de la pertinence des réponses LLM grâce à la mise en œuvre de techniques RAG
-- 🚀 Réduction de 30% du temps de traitement pour les applications LLM d'entreprise
-- 👁️ Développement d'un système de détection d'objets en temps réel avec une précision de 95%
-- ⚙️ Mise en place d'un pipeline MLOps réduisant le temps de déploiement des modèles de 75%
-
-## 📈 Projets Phares
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://your-image-url.com/chatbot-icon.png" width="100px;" alt="Chatbot Icon"/><br />
-      <sub><b>AI Chatbot</b></sub><br />
-      <a href="https://github.com/EL-FENAOUY/Random_Forest">🔗 Repo</a>
-    </td>
-    <td align="center">
-      <img src="https://your-image-url.com/face-recognition-icon.png" width="100px;" alt="Face Recognition Icon"/><br />
-      <sub><b>Face Recognition</b></sub><br />
-      <a href="https://github.com/your-username/face-recognition-project">🔗 Repo</a>
-    </td>
-    <td align="center">
-      <img src="https://your-image-url.com/predictive-maintenance-icon.png" width="100px;" alt="Predictive Maintenance Icon"/><br />
-      <sub><b>Predictive Maintenance</b></sub><br />
-      <a href="https://github.com/your-username/predictive-maintenance-project">🔗 Repo</a>
-    </td>
-  </tr>
-</table>
-
-## 📊 Impact Mesurable
-
-- 📈 Amélioration de 40% de la satisfaction client grâce à l'IA Chatbot
-- 🔍 Précision de 99% du système de reconnaissance faciale dans diverses conditions d'éclairage
-- 🏭 Réduction de 25% des temps d'arrêt grâce au modèle de maintenance prédictive
-
-
-
-
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  ⭐️ De <a href="https://github.com/your-username">EL-FENAOUY</a> - Transformons ensemble les données en impact !
-</p>
-
----
-
-⭐️ From [EL-FENAOUY](https://github.com/your-username)
----
 
 ### 🔧 Languages and Tools:
 
