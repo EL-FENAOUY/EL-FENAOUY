@@ -29,7 +29,7 @@ Passionné par l'IA et la data science, je m'efforce de transformer des données
     <td align="center">
       <img src="https://your-image-url.com/chatbot-icon.png" width="100px;" alt="Chatbot Icon"/><br />
       <sub><b>AI Chatbot</b></sub><br />
-      <a href="https://github.com/your-username/chatbot-project">🔗 Repo</a>
+      <a href="https://github.com/EL-FENAOUY/Random_Forest">🔗 Repo</a>
     </td>
     <td align="center">
       <img src="https://your-image-url.com/face-recognition-icon.png" width="100px;" alt="Face Recognition Icon"/><br />
