@@ -52,11 +52,13 @@ Passionné par l'IA et la data science, je m'efforce de transformer des données
 
 ## 🎓 Formation & Certifications
 
-- 🎓 M.Sc. en Data Science | Université X | Année
+- 🎓 M.Sc. en Data Science | | Année
 - 🎓 B.Sc. en Informatique | Université Y | Année
-- 📜 AWS Certified Machine Learning – Specialty
-- 📜 TensorFlow Developer Certificate
-- 📜 Deep Learning Specialization - Coursera
+- 📜 MLOps Bootcamp: Mastering AI Operations for Success - AIOps 
+- 📜 End-to-End Machine Learning: From Idea to Implementation 
+- 📜 Deep Learning avec TensorFlow et Keras | MasterClass Python
+- 📜 Les Data Sciences de A à Z
+- 📜 Spark avec Scala - Pratique avec le Big Data pour Débutants 
 
 ## 📫 Parlons de Votre Prochain Projet d'IA !
 
