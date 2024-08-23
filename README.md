@@ -11,6 +11,17 @@
   </a>
 </p>
 
+## 💼 Professional Experience
+
+### Data Scientist | Flechetech, Biel, Switzerland (June 2023 - July 2024)
+- **Large Language Models (LLM) Projects**:
+  - Implemented Retrieval-Augmented Generation (RAG) techniques, enhancing response relevance by 45% and reducing hallucinations by 60%.
+  - Optimized LLM performance, decreasing processing time by 30% for enterprise-specific applications.
+- **Computer Vision Projects**:
+  - Developed a real-time object detection system using YOLO, achieving 95% accuracy for PCB inspection and electronic component recognition.
+- **Leadership and MLOps**:
+  - Led a team of 3 junior data scientists, providing mentorship and project coordination.
+  - Established a complete MLOps pipeline, reducing model deployment time by 75%.
 ---
 
 ### 🔧 Languages and Tools:
