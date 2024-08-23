@@ -91,11 +91,6 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-
-
-
-<!--
-
 ## 🎯 Certifications
 
 - MLOps Bootcamp: Mastering AI Operations for Success - AIOps
@@ -111,6 +106,11 @@
 - **Location**: Kénitra, Morocco
 
 Thank you for visiting my profile! Feel free to explore my projects and get in touch if you'd like to collaborate or discuss any ideas.
+
+
+<!--
+
+
 
 **EL-FENAOUY/EL-FENAOUY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
