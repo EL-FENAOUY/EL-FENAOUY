@@ -22,21 +22,6 @@ Passionné par l'IA et la data science, je m'efforce de transformer des données
 - 👁️ Développement d'un système de détection d'objets en temps réel avec une précision de 95%
 - ⚙️ Mise en place d'un pipeline MLOps réduisant le temps de déploiement des modèles de 75%
 
-## 💼 Expertise Technique
-
-```python
-skills = {
-    "Languages": ["Python", "R", "SQL"],
-    "Machine Learning": ["TensorFlow", "PyTorch", "Scikit-learn"],
-    "Deep Learning": ["CNNs", "RNNs", "Transformers"],
-    "NLP": ["BERT", "GPT", "Hugging Face"],
-    "Computer Vision": ["OpenCV", "YOLO", "TensorFlow Object Detection API"],
-    "MLOps": ["Docker", "Kubernetes", "CI/CD", "MLflow"],
-    "Cloud": ["AWS", "GCP"],
-    "Data Viz": ["Matplotlib", "Seaborn", "Plotly", "Tableau"]
-}
-```
-
 ## 📈 Projets Phares
 
 <table>
